@@ -1,0 +1,9 @@
+# Ignore virtual environment
+venv/
+
+# Ignore model files and data CSVs
+*.pkl
+*.csv
+
+# Ignore Python cache
+__pycache__/
